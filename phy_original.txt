@@ -1,0 +1,1156 @@
+Electrostatics
+(i) Electric Charges and Fields
+Electric charges; conservation and
+quantisation of charge, Coulomb's law;
+superposition principle and continuous
+charge distribution.
+Electric field, electric field due to a point
+charge, electric field lines, electric dipole,
+electric field due to a dipole, torque on a
+dipole in uniform electric field. Electric flux, Gauss’s theorem in
+Electrostatics and its applications to find
+field due to infinitely long straight wire,
+uniformly charged infinite plane sheet and
+uniformly charged thin spherical shell. (a) Coulomb's law, S.I. unit of
+charge; permittivity of free space
+and of dielectric medium.
+Frictional electricity, electric charges
+(two types); repulsion and
+attraction; simple atomic structure - electrons and ions; conductors
+and insulators; quantization and
+conservation of electric charge;
+Coulomb's law in vector form;
+(position coordinates r1, r2 not
+necessary). Comparison with Newton’s
+law of gravitation;
+Superposition principle  F F F F 1 12 13 14     
+   
+. (b) Concept of electric field and its
+intensity; examples of different fields;
+gravitational, electric and magnetic;
+Electric field due to a point charge
+E F q  / o  
+(q0 is a test charge); E
+
+for
+a group of charges (superposition
+principle); a point charge q in an
+electric field E
+
+experiences an electric
+force F qE E 
+ 
+. Intensity due to a
+continuous distribution of charge i.e.
+linear, surface and volume.
+(c) Electric lines of force: A convenient
+way to visualize the electric field;
+properties of lines of force; examples
+of the lines of force due to (i) an
+isolated point charge (+ve and - ve);
+(ii) dipole, (iii) two similar charges at
+a small distance;(iv) uniform field
+between two oppositely charged
+parallel plates.
+(d) Electric dipole and dipole moment;
+derivation of the E
+
+at a point, (1) on
+the axis (end on position) (2) on the
+perpendicular bisector (equatorial i.e.
+broad side on position) of a dipole,
+also for r>> 2l (short dipole); dipole in
+a uniform electric field; net force zero,
+torque on an electric dipole:
+  p E
+   and its derivation. (e) Gauss’ theorem: the flux of a vector
+field; Q=vA for velocity vector v A,   A
+
+is area vector. Similarly, for electric
+field E
+
+, electric flux E = EA for E A
+ 
+and E   E A
+ 
+for uniform E
+
+. For
+non-uniform field E = d = E dA.  
+. Special cases for  = 00
+, 900 and 1800
+. Gauss’ theorem, statement: E =q/0
+orE 
+0
+q E dA    
+ 
+where E is for
+a closed surface; q is the net charge
+enclosed, o is the permittivity of free
+space. Essential properties of a
+Gaussian surface.
+Applications: Obtain expression for E
+
+due to 1. an infinite line of charge, 2. a
+uniformly charged infinite plane thin
+sheet, 3. a thin hollow spherical shell
+(inside, on the surface and outside).
+Graphical variation of E vs r for a thin
+spherical shell.
+(ii) Electrostatic Potential, Potential Energy
+andCapacitance
+Electric potential, potential difference,
+electric potential due to a point charge, a
+dipole and system of charges;
+equipotential surfaces, electrical potential
+energy of a system of two point charges
+and of electric dipole in an electrostatic
+field.
+Conductors and insulators, free charges
+and bound charges inside a conductor.
+Dielectrics and electric polarisation,
+capacitors and capacitance, combination
+of capacitors in series and in parallel. Capacitance of a parallel plate capacitor, energy stored in a capacitor.
+(a) Concept of potential, potential
+difference and potential energy. Equipotential surface and its
+properties. Obtain an expression for
+electric potential at a point due to a
+point charge; graphical variation of E
+and V vs r, VP=W/q0; hence VA -VB = WBA/ q0 (taking q0 from B to A) =
+(q/40)(1
+/rA -
+1
+/rB); derive this
+equation; also VA = q/40 .1/rA ; for
+q>0, VA>0 and for q<0, VA < 0. For a
+collection of charges V = algebraic
+sum of the potentials due to each
+charge; potential due to a dipole on its
+axial line and equatorial line; also at
+any point for r>>2l (short dipole).
+Potential energy of a point charge (q)
+in an electric field E
+
+, placed at a point
+P where potential is V, is given by U
+=qV and U =q (VA-VB) . The
+electrostatic potential energy of a
+system of two charges = work done
+W21=W12 in assembling the system; U12
+or U21 = (1/40 ) q1q2/r12. For a
+system of 3 charges U123 = U12 + U13 +
+U23 = 0 1
+4
+1 2 1 3 2 3
+12 13 23 ( ) q q q q q q
+r r r
+  . For a dipole in a uniform electric field, derive an expression of the electric
+potential energy UE = - p
+
+. E
+
+, special
+cases for  =00
+, 900 and 1800
+.
+(b) Capacitance of a conductor C = Q/V;
+obtain the capacitance of a parallel- plate capacitor (C = 0A/d) and
+equivalent capacitance for capacitors in
+series and parallel combinations. Obtain
+an expression for energy stored (U =
+1
+2
+CV2 = 2 1 1
+2 2
+Q
+QV C
+ ) and energy
+density.
+(c) Dielectric constant K = C'/C; this is also
+called relative permittivity K = r = /o; elementary ideas of polarization of
+matter in a uniform electric field
+qualitative discussion; induced surface
+charges weaken the original field; results
+in reduction in E
+
+and hence, in pd, (V);
+for charge remaining the same Q = CV
+= C' V' = K. CV'; V' = V/K;
+and E E
+K
+  ; if the Capacitor is kept
+connected with the source of emf, V is
+kept constant V = Q/C = Q'/C' ; Q'=C'V = K. CV= K. Q
+increases; For a parallel plate capacitor
+with a dielectric in between,
+C' = KC = K.o . A/d = r .o .A/d.
+Then 0
+rA C
+d
+
+ 
+      
+; for a capacitor
+partially filled dielectric, capacitance,
+C' =oA/(d-t + t/r). 2. Current Electricity
+Mechanism of flow of current in conductors. Mobility, drift velocity and its relation with
+electric current; Ohm's law and its proof, resistance and resistivity and their relation to
+drift velocity of electrons; V-I characteristics
+(linear and non-linear), electrical energy and
+power, electrical resistivity and
+conductivity. Carbon resistors, colour code
+for carbon resistors; series and parallel
+combinations of resistors; temperature
+dependence ofresistance and resistivity. Internal resistance of a cell, potential
+difference and emf of a cell, combination of
+cells in series and in parallel, Kirchhoff's laws
+and simple applications, Wheatstone bridge,
+metre bridge. Potentiometer - principle and its
+applications to measure potential difference, to compare emf of two cells; to measure
+internal resistance of a cell. (a) Free electron theory of conduction;
+acceleration of free electrons, relaxation
+timeτ ; electric current I = Q/t; concept of
+drift velocity and electron mobility. Ohm's
+law, current density J = I/A; experimental
+verification, graphs and slope, ohmic
+and non-ohmic conductors; obtain the
+relation I=vdenA. Derive  = ne2/m and
+ = m/ne2
+τ ; effect of temperature on
+resistivity and resistance of conductors
+and semiconductors and graphs. Resistance R= V/I; resistivity , given by R = .l/A; conductivity and conductance;
+Ohm’s law as J
+
+=  E
+
+; colour coding of
+resistance.
+(b) Electrical energy consumed in time
+t is E=Pt= VIt; using Ohm’s law
+E =  
+2 V t R
+= I2Rt. Potential difference
+V = P/ I; P = V I; Electric power consumed
+P = VI = V2
+/R = I2 R; commercial units;
+electricity consumption and billing.
+Derivation of equivalent resistance for
+combination of resistors in series and
+parallel; special case of n identical
+resistors; Rs = nR and Rp = R/n.
+Calculation of equivalent resistance of
+mixed grouping of resistors (circuits).
+(c) The source of energy of a seat of emf (such
+as a cell) may be electrical, mechanical,
+thermal or radiant energy. The emf of a
+source is defined as the work done per unit
+charge to force them to go to the higher
+point of potential (from -ve terminal to +ve
+terminal inside the cell) so,  = dW /dq; but
+dq = Idt; dW = dq = Idt . Equating total
+work done to the work done across the
+external resistor R plus the work done
+across the internal resistance r; Idt=I2R dt
++ I2rdt;  =I (R + r); I=/( R + r ); also
+IR +Ir =  or V=- Ir where Ir is called the
+back emf as it acts against the emf ; V is
+the terminal pd. Derivation of formulae for
+combination for identical cells in series,
+parallel and mixed grouping. Parallel
+combination of two cells of unequal emf. Series combination of n cells of unequal
+emf.
+(d) Statement and explanation of Kirchhoff's
+laws with simple examples. The first is a
+conservation law for charge and the 2nd is
+law of conservation of energy. Note change
+in potential across a resistor V=IR<0
+when we go ‘down’ with the current
+(compare with flow of water down a river),
+and V=IR>0 if we go up against the
+current across the resistor. When we go
+through a cell, the -ve terminal is at a
+lower level and the +ve terminal at a
+higher level, so going from -ve to +ve
+through the cell, we are going up and
+V=+ and going from +ve to -ve terminal
+through the cell, we are going down, so V = -. Application to simple circuits.
+Wheatstone bridge; right in the beginning
+take Ig=0 as we consider a balanced
+bridge, derivation of R1/R2 = R3/R4
+[Kirchhoff’s law not necessary]. Metre
+bridge is a modified form of Wheatstone
+bridge, its use to measure unknown
+resistance. Here R3 = l1 and R4=l2;
+R3/R4=l1/l2. Principle of Potentiometer: fall
+in potential V  l; auxiliary emf 1 is
+balanced against the fall in potential V1
+across length l1. 1 = V1 =Kl1 ; 1/2 = l1/l2;
+potentiometer as a voltmeter. Potential
+gradient and sensitivity of potentiometer. Use of potentiometer: to compare emfs of
+two cells, to determine internal resistance
+of a cell.
+3. Magnetic Effects of Current and Magnetism
+(i) Moving charges and magnetism
+Concept of magnetic field, Oersted's
+experiment. Biot - Savart law and its
+application. Ampere's Circuital law and its
+applications to infinitely long straight wire, straight and toroidal solenoids (only
+qualitative treatment). Force on a moving
+charge in uniform magnetic and electric
+fields, cyclotron. Force on a current- carrying conductor in a uniform magnetic
+field, force between two parallel
+current-carrying conductors-definition of
+ampere, torque experienced by a current
+loop in uniform magnetic field; moving coil
+galvanometer - its sensitivity. Conversion
+of galvanometer into an ammeter and a
+voltmeter.
+(ii) Magnetism and Matter:
+A current loop as a magnetic dipole, its
+magnetic dipole moment, magnetic dipole
+moment of a revolving electron, magnetic
+field intensity due to a magnetic dipole
+(bar magnet) on the axial line and
+equatorial line, torque on a magnetic dipole
+(bar magnet) in a uniform magnetic field;
+bar magnet as an equivalent solenoid,
+magnetic field lines; earth's magnetic field
+and magnetic elements.
+Diamagnetic, paramagnetic, and
+ferromagnetic substances, with examples.
+Electromagnets and factors affecting their
+strengths, permanent magnets.
+(a) Only historical introduction through
+Oersted’s experiment. [Ampere’s
+swimming rule not included]. Biot- Savart law and its vector form;
+application; derive the expression for B
+(i) at the centre of a circular loop
+carrying current; (ii) at any point on
+its axis. Current carrying loop as a
+magnetic dipole. Ampere’s Circuital
+law: statement and brief explanation.
+Apply it to obtain B
+
+near a long wire
+carrying current and for a solenoid
+(straight as well as torroidal). Only
+formula of B
+
+due to a finitely long
+conductor.
+(b) Force on a moving charged particle in
+magnetic field F q v B B    
+  
+; special
+cases, modify this equation substituting
+dl / dt for v and I for q/dt to yield F
+
+=
+I dl 
+ B
+
+for the force acting on a
+current carrying conductor placed in a
+magnetic field. Derive the expression
+for force between two long and parallel
+wires carrying current, hence, define
+ampere (the base SI unit of current)
+and hence, coulomb; from Q = It.
+Lorentz force, Simple ideas about
+principle, working, and limitations of a
+cyclotron.
+(c) Derive the expression for torque on a
+current carrying loop placed in a
+uniform B
+
+, using F
+
+= I l B
+ 
+and 
+
+= r F 
+ 
+;  = NIAB sin for N turns 
+
+=m
+
+× B
+
+, where the dipole moment
+m
+
+= NI A
+
+, unit: A.m2
+. A current
+carrying loop is a magnetic dipole;
+directions of current and B
+
+and m
+
+using right hand rule only; no other
+rule necessary. Mention orbital
+magnetic moment of an electron in
+Bohr model of H atom. Concept of
+radial magnetic field. Moving coil
+galvanometer; construction, principle,
+working, theory I= k , current and
+voltage sensitivity. Shunt. Conversion
+of galvanometer into ammeter and
+voltmeter of given range. (d) Magnetic field represented by the
+symbol B is now defined by the
+equation F q  o v B   
+  
+; B
+
+is not to be
+defined in terms of force acting on a
+unit pole, etc.; note the distinction of
+B
+
+from E
+
+is that B
+
+forms closed
+loops as there are no magnetic
+monopoles, whereas E
+
+lines start from
++ve charge and end on -ve charge.
+Magnetic field lines due to a magnetic
+dipole (bar magnet). Magnetic field in
+end-on and broadside-on positions (No
+derivations). Magnetic flux  = B
+
+. A
+
+=
+BA for B uniform and B
+ A
+
+; i.e.
+area held perpendicular to For  =
+BA( B
+ A
+
+), B=/A is the flux density
+[SI unit of flux is weber (Wb)]; but note
+that this is not correct as a defining
+equation as B
+
+is vector and  and /A
+are scalars, unit of B is tesla (T) equal
+to 10-4 gauss. For non-uniform B
+
+field,
+ = d= B
+
+. dA
+
+. Earth's magnetic
+field B
+
+E is uniform over a limited area
+like that of a lab; the component of this
+field in the horizontal direction BH is
+the one effectively acting on a magnet
+suspended or pivoted horizontally.
+Elements of earth’s magnetic field, i.e.
+BH,  and  - their definitions and
+relations.
+(e) Properties of diamagnetic, paramagnetic and ferromagnetic
+substances; their susceptibility and
+relative permeability. It is better to explain the main
+distinction, the cause of magnetization
+(M) is due to magnetic dipole moment
+(m) of atoms, ions or molecules being 0
+for dia, >0 but very small for para and
+> 0 and large for ferromagnetic
+materials; few examples; placed in
+external B
+
+, very small (induced)
+magnetization in a direction opposite
+to B
+
+in dia, small magnetization
+parallel to B
+
+for para, and large
+magnetization parallel to B
+
+for
+ferromagnetic materials; this leads to
+lines of B
+
+becoming less dense, more
+dense and much more dense in dia,
+para and ferro, respectively; hence, a
+weak repulsion for dia, weak attraction
+for para and strong attraction for ferro
+magnetic material. Also, a small bar
+suspended in the horizontal plane
+becomes perpendicular to the B
+
+field
+for dia and parallel to B
+
+for para and
+ferro. Defining equation H = (B/0)-M;
+the magnetic properties, susceptibility
+m = (M/H) < 0 for dia (as M is
+opposite H) and >0 for para, both very
+small, but very large for ferro; hence
+relative permeability r =(1+ m) < 1
+for dia, > 1 for para and >>1 (very
+large) for ferro; further, m1/T
+(Curie’s law) for para, independent of
+temperature (T) for dia and depends
+on T in a complicated manner for
+ferro; on heating ferro becomes para
+at Curie temperature. Electromagnet:
+its definition, properties and factors
+affecting the strength of electromagnet;
+selection of magnetic material for
+temporary and permanent magnets and
+core of the transformer on the basis of
+retentivity and coercive force (B-H
+loop and its significance, retentivity
+and coercive force not to be evaluated). 4. Electromagnetic Induction and Alternating
+Currents
+(i) Electromagnetic Induction
+Faraday's laws, induced emf and current;
+Lenz's Law, eddy currents. Self-induction
+and mutual induction. Transformer.
+(ii) Alternating Current
+Peak value, mean value and RMS value of
+alternating current/voltage; their relation
+in sinusoidal case; reactance
+and impedance; LC oscillations
+(qualitative treatment only), LCR series
+circuit, resonance; power in AC circuits,
+wattless current. AC generator.
+(a) Electromagnetic induction, Magnetic
+flux, change in flux, rate of change of
+flux and induced emf; Faraday’s laws.
+Lenz's law, conservation of energy;
+motional emf  = Blv, and power P =
+(Blv)
+2
+/R; eddy currents (qualitative);
+(b) Self-Induction, coefficient of selfinductance,  = LI and L dI dt   ;
+henry = volt. Second/ampere, expression for coefficient of selfinductance of a solenoid
+L
+2
+0 2
+0
+N A n A l
+l
+
+    . Mutual induction and mutual
+inductance (M), flux linked 2 = MI1;
+induced emf 2
+2
+d
+dt
+
+  =M 1 dI
+dt
+. Definition of M as
+M =
+1
+2
+1
+2 M I or
+dt
+dI
+   . SI unit
+henry. Expression for coefficient of
+mutual inductance of two coaxial
+solenoids.
+0 1 2
+0 1 2
+N N A M n N A
+l
+
+   Induced
+emf opposes changes, back emf is set
+up, eddy currents.
+Transformer (ideal coupling):
+principle, working and uses; step up
+and step down; efficiency and
+applications including transmission of
+power, energy losses and their
+minimisation.
+(c) Sinusoidal variation of V and I with
+time, for the output from an
+ac generator; time period, frequency
+and phase changes; obtain mean
+values of current and voltage, obtain
+relation between RMS value of V and I
+with peak values in sinusoidal cases
+only. (d) Variation of voltage and current in a.c.
+circuits consisting of only a resistor,
+only an inductor and only a capacitor
+(phasor representation), phase lag and
+phase lead. May apply Kirchhoff’s law
+and obtain simple differential equation
+(SHM type), V = Vo sin t, solution I =
+I0 sin t, I0sin (t + /2) and I0 sin (t - /2) for pure R, C and L circuits
+respectively. Draw phase (or phasor)
+diagrams showing voltage and current
+and phase lag or lead, also showing
+resistance R, inductive reactance XL;
+(XL=L) and capacitive reactance XC, (XC= 1/C). Graph of XL and XC vs f.
+(e) The LCR series circuit: Use phasor
+diagram method to obtain expression
+for I and V, the pd across R, L and C;
+and the net phase lag/lead; use the
+results of 4(e), V lags I by /2 in a
+capacitor, V leads I by /2 in an
+inductor, V and I are in phase in a
+resistor, I is the same in all three;
+hence draw phase diagram, combine
+VL and Vc (in opposite phase;
+phasors add like vectors)
+to give V=VR+VL+VC (phasor addition)
+and the max. values are related by
+V
+2m=V2
+Rm+(VLm-VCm)
+2 when VL>VC
+Substituting pd=current x
+resistance or reactance, we get
+Z
+2 = R2+(XL-Xc)
+2 and
+tan = (VL m -VCm)/VRm = (XL-Xc)/R
+giving I = I m sin (wt-) where I m =Vm/Z etc. Special cases for RL and
+RC circuits. [May use Kirchoff’s law
+and obtain the differential equation]
+Graph of Z vs f and I vs f. (f) Power P associated with LCR circuit =
+1
+/2VoIo cos =VrmsIrms cos = Irms2 R;
+power absorbed and power dissipated;
+electrical resonance; bandwidth of
+signals and Q factor (no derivation);
+oscillations in an LC circuit (0 =
+1/ LC ). Average power consumed
+averaged over a full cycle P =
+(1/2) VoIo cos, Power factor
+cos = R/Z. Special case for pure R, L
+and C; choke coil (analytical only), XL
+controls current but cos = 0, hence
+P =0, wattless current; LC circuit; at
+resonance with XL=Xc , Z=Zmin= R,
+power delivered to circuit by the
+source is maximum, resonant frequency
+0
+1
+2
+f
+ LC
+ .
+(g) Simple a.c. generators: Principle,
+description, theory, working and use.
+Variation in current and voltage with
+time for a.c. and d.c. Basic differences
+between a.c. and d.c.
+5. Electromagnetic Waves
+Basic idea of displacement current.
+Electromagnetic waves, their characteristics,
+their transverse nature (qualitative ideas only).
+Complete electromagnetic spectrum starting
+from radio waves to gamma rays: elementary
+facts of electromagnetic waves and their uses.
+Concept of displacement current, qualitative
+descriptions only of electromagnetic spectrum;
+common features of all regions of em
+spectrum including transverse nature ( E
+
+and B
+
+perpendicular to c
+
+); special features of the
+common classification (gamma rays, X rays,
+UV rays, visible light, IR, microwaves, radio
+and TV waves) in their production (source),
+detection and other properties; uses;
+approximate range of  or f or at least proper
+order of increasing f or ..
+6. Optics
+(i) Ray Optics and OpticalInstruments
+Ray Optics: Reflection of light by
+spherical mirrors, mirror formula,
+refraction of light at plane surfaces, total
+internal reflection and its applications,
+optical fibres, refraction at spherical
+surfaces, lenses, thin lens formula, lens
+maker's formula, magnification, power
+of a lens, combination of thin lenses in
+contact, combination of a lens and a
+mirror, refraction and dispersion of light
+through a prism. Scattering of light.
+Optical instruments: Microscopes and
+astronomical telescopes (reflecting and
+refracting) and their magnifying powers
+and their resolving powers.
+(a) Reflection of light by spherical mirrors.
+Mirror formula: its derivation; R=2f
+for spherical mirrors. Magnification.
+(b) Refraction of light at a plane interface,
+Snell's law; total internal reflection
+and critical angle; total reflecting
+prisms and optical fibers. Total
+reflecting prisms: application to
+triangular prisms with angle of the
+prism 300
+, 450
+, 600 and 900
+respectively; ray diagrams for
+Refraction through a combination of
+media, 1 2 2 3 3 1 n n n    1 , real depth
+and apparent depth. Simple
+applications.
+(c) Refraction through a prism, minimum
+deviation and derivation of
+relation between n, A and min. Include
+explanation of i- graph, i1 = i2 = i
+(say) for m; from symmetry r1 = r2;
+refracted ray inside the prism is
+parallel to the base of the equilateral
+prism. Thin prism. Dispersion; Angular
+dispersion; dispersive power, rainbow
+- ray diagram (no derivation). Simple
+explanation. Rayleigh’s theory of
+scattering of light: blue colour of sky
+and reddish appearance of the sun at
+sunrise and sunset clouds appear
+white.
+(d) Refraction at a single spherical
+surface; detailed discussion of one case
+only - convex towards rarer medium,
+for spherical surface and real image.
+Derive the relation between n1, n2, u, v
+and R. Refraction through thin lenses:
+derive lens maker's formula and lens
+formula; derivation of combined focal
+length of two thin lenses in contact.
+Combination of lenses and mirrors
+(silvering of lens excluded) and
+magnification for lens, derivation for
+biconvex lens only; extend the results
+to biconcave lens, plano convex lens
+and lens immersed in a liquid; power
+of a lens P=1/f with SI unit dioptre.
+For lenses in contact 1/F= 1/f1+1/f2
+and P=P1+P2. Lens formula, formation
+of image with combination of thin
+lenses and mirrors.
+[Any one sign convention may be used
+in solving numericals].
+(e) Ray diagram and derivation of
+magnifying power of a simple
+microscope with image at D (least
+distance of distinct vision) and infinity;
+Ray diagram and derivation of
+magnifying power of a compound
+microscope with image at D. Only
+expression for magnifying power of
+compound microscope for final image
+at infinity. Ray diagrams of refracting telescope
+with image at infinity as well as at D;
+simple explanation; derivation of
+magnifying power; Ray diagram of
+reflecting telescope with image at
+infinity. Advantages, disadvantages
+and uses. Resolving power of
+compound microscope and telescope.
+(ii) Wave Optics
+Wave front and Huygen's principle. Proof
+of laws of reflection and refraction
+using Huygen's principle. Interference,
+Young's double slit experiment and
+expression for fringe width(β), coherent
+sources and sustained interference of light,
+Fraunhofer diffraction due to a single slit,
+width of central maximum; polarisation,
+plane polarised light, Brewster's law, uses
+of plane polarised light and Polaroids.
+(a) Huygen’s principle: wavefronts - different types/shapes of wavefronts;
+proof of laws of reflection and
+refraction using Huygen’s theory.
+[Refraction through a prism and lens
+on the basis of Huygen’s theory not
+required].
+(b) Interference of light, interference of
+monochromatic light by double slit.
+Phase of wave motion; superposition of
+identical waves at a point, path
+difference and phase difference;
+coherent and incoherent sources;
+interference: constructive and
+destructive, conditions for sustained
+interference of light waves
+[mathematical deduction of
+interference from the equations of two
+progressive waves with a phase
+difference is not required]. Young's
+double slit experiment: set up,
+diagram, geometrical deduction of path
+difference x = dsin, between waves
+from the two slits; using x=n for
+bright fringe and x= (n+½) for dark
+fringe and sin  = tan  =yn /D as y
+and  are small, obtain yn=(D/d)n
+and fringe width =(D/d). Graph of
+distribution of intensity with angular
+distance.
+(c) Single slit Fraunhofer diffraction
+(elementary explanation only).
+Diffraction at a single slit:
+experimental setup, diagram,
+diffraction pattern, obtain expression
+for position of minima, a sinn= n, where n = 1,2,3… and conditions for
+secondary maxima, asinn =(n+½).;
+distribution of intensity with angular
+distance; angular width of central
+bright fringe.
+(d) Polarisation of light, plane polarised
+electromagnetic wave (elementary idea
+only), methods of polarisation of light.
+Brewster's law; polaroids. Description
+of an electromagnetic wave as
+transmission of energy by periodic
+changes in E
+
+and B
+
+along the path;
+transverse nature as E
+
+and B
+
+are
+perpendicular to c
+
+. These three
+vectors form a right handed system, so
+that E
+
+x B
+
+is along c
+
+, they are
+mutually perpendicular to each other.
+For ordinary light, E
+
+and B
+
+are in all
+directions in a plane perpendicular to
+the c
+
+vector - unpolarised waves. If
+E
+
+and (hence B
+
+also) is confined to a
+single plane only ( c
+
+, we have
+linearly polarized light. The plane
+containing E
+
+(or B
+
+) and c
+
+remains
+fixed. Hence, a linearly polarised light
+is also called plane polarised
+light. Plane of polarisation
+(contains E c and
+ 
+); polarisation by
+reflection; Brewster’s law: tan ip=n;
+refracted ray is perpendicular to
+reflected ray for i= ip; ip+rp = 90 ;
+polaroids; use in the production and
+detection/analysis of polarised light,
+other uses. Law of Malus.
+7. Dual Nature of Radiation andMatter
+Wave particle duality; photoelectric effect,
+Hertz and Lenard's observations; Einstein's
+photoelectric equation - particle nature of
+light. Matter waves - wave nature of particles,
+de-Broglie relation; conclusion from
+Davisson-Germer experiment. X-rays.
+(a) Photo electric effect, quantization of
+radiation; Einstein's equation
+Emax = h - W0; threshold frequency; work
+function; experimental facts of Hertz and
+Lenard and their conclusions; Einstein
+used Planck’s ideas and extended it to
+apply for radiation (light); photoelectric
+effect can be explained only assuming
+quantum (particle) nature of
+radiation. Determination of Planck’s
+constant (from the graph of stopping
+potential Vs versus frequency f of the
+incident light). Momentum of photon
+p=E/c=h/c=h/.
+(b) De Broglie hypothesis, phenomenon of
+electron diffraction (qualitative only).
+Wave nature of radiation is exhibited in
+interference, diffraction and polarisation;
+particle nature is exhibited in photoelectric
+effect. Dual nature of matter: particle
+nature common in that it possesses
+momentum p and kinetic energy KE. The
+wave nature of matter was
+proposed by Louis de Broglie,
+=h/p= h/mv. Davisson and Germer
+experiment; qualitative description of the
+experiment and conclusion. (c) A simple modern X-ray tube (Coolidge
+tube) – main parts: hot cathode, heavy
+element anode (target) kept cool, all
+enclosed in a vacuum tube; elementary
+theory of X-ray production; effect of
+increasing filament current- temperature
+increases rate of emission of electrons
+(from the cathode), rate of production of X
+rays and hence, intensity of X rays
+increases (not its frequency); increase in
+anode potential increases energy of each
+electron, each X-ray photon and hence, X- ray frequency (E=h); maximum frequency
+hmax =eV; continuous spectrum of X rays
+has minimum wavelength min=
+c/max=hc/eV. Moseley’s law.
+Characteristic and continuous X rays, their
+origin.(This topic is not to be evaluated)
+8. Atoms and Nuclei
+(i) Atoms
+Alpha-particle scattering experiment;
+Rutherford's atomic model; Bohr’s atomic
+model, energy levels, hydrogen spectrum.
+Rutherford’s nuclear model of atom
+(mathematical theory of scattering
+excluded), based on Geiger - Marsden
+experiment on -scattering;
+nuclear radius r in terms of closest
+approach of  particle to the nucleus,
+obtained by equating K=½ mv2 of the 
+particle to the change in electrostatic
+potential energy U of the system
+[ 0 0 4
+2e Ze U
+ r 
+ r010-15m = 1 fermi; atomic
+structure; only general qualitative ideas,
+including atomic number Z, Neutron
+number N and mass number A. A brief
+account of historical background leading
+to Bohr’s theory of hydrogen spectrum;
+formulae for wavelength in Lyman, Balmer,
+Paschen, Brackett and Pfund series. Rydberg constant. Bohr’s model of H
+atom, postulates (Z=1); expressions for
+orbital velocity, kinetic energy, potential
+energy, radius of orbit and total energy of
+electron. Energy level diagram, calculation
+of E, frequency and wavelength of
+different lines of emission spectra;
+agreement with experimentally observed
+values. [Use nm and not Å for unit of].
+(ii) Nuclei
+Composition and size of nucleus,
+Radioactivity, alpha, beta and gamma
+particles/rays and their properties;
+radioactive decay law. Mass-energy
+relation, mass defect; binding energy
+per nucleon and its variation with mass
+number; Nuclear reactions, nuclear fission
+and nuclearfusion.
+(a) Atomic masses and nuclear density;
+Isotopes, Isobars and Isotones –
+definitions with examples of each.
+Unified atomic mass unit, symbol u,
+1u=1/12 of the mass of 12C atom =
+1.66x10-27kg). Composition of nucleus;
+mass defect and binding energy, BE=
+(m) c2
+. Graph of BE/nucleon versus
+mass number A, special features - less
+BE/nucleon for light as well as heavy
+elements. Middle order more stable
+[see fission and fusion] Einstein’s
+equation E=mc2
+. Calculations related
+to this equation; mass defect/binding
+energy, mutual annihilation and pair
+production as examples.
+(b) Radioactivity: discovery; spontaneous
+disintegration of an atomic nucleus
+with the emission of  or  particles
+and  radiation, unaffected by
+physical and chemical changes.
+Radioactive decay law; derivation of
+N = Noe
+-t; half-life period T; graph
+of N versus t, with T marked on
+the X axis. Relation between
+half-life (T) and disintegration
+constant ( ); mean life ( ) and its
+relation with λ. Value of T of some
+common radioactive elements.
+Examples of a few nuclear reactions
+with conservation of mass number and
+charge, concept of a neutrino. Changes taking place within the
+nucleus included. [Mathematical
+theory of  and  decay not included].
+(c) Nuclear Energy
+Theoretical (qualitative) prediction of
+exothermic (with release of energy)
+nuclear reaction, in fusing together two
+light nuclei to form a heavier nucleus
+and in splitting heavy nucleus to form
+middle order (lower mass number)
+nuclei, is evident from the shape of BE
+per nucleon versus mass number
+graph. Also calculate the
+disintegration energy Q for a heavy
+nucleus (A=240) with BE/A  7.6 MeV
+per nucleon split into two equal halves
+with A=120 each and BE/A  8.5
+MeV/nucleon; Q  200 MeV. Nuclear
+fission: Any one equation of fission
+reaction. Chain reaction- controlled
+and uncontrolled; nuclear reactor and
+nuclear bomb. Main parts of a nuclear
+reactor including their functions - fuel
+elements, moderator, control rods,
+coolant, casing; criticality; utilization
+of energy output - all qualitative only.
+Fusion, simple example of 4
+1H4He
+and its nuclear reaction equation;
+requires very high temperature  106
+degrees; difficult to achieve; hydrogen
+bomb; thermonuclear energy
+production in the sun and stars.
+[Details of chain reaction not
+required].
+9. Electronic Devices
+(i) Semiconductor Electronics: Materials,
+Devices and SimpleCircuits. Energy bands
+in conductors, semiconductors and
+insulators (qualitative ideas only). Intrinsic
+and extrinsic semiconductors.
+(ii) Semiconductor diode: I-V characteristics in
+forward and reverse bias, diode as a
+rectifier; Special types of junction diodes:
+LED, photodiode, solar cell and Zener
+diode and its characteristics, zener diode as
+a voltage regulator.
+(iii)Junction transistor, npn and pnp transistor,
+transistor action, characteristics of a
+transistor and transistor as an amplifier
+(common emitter configuration).
+(iv) Elementary idea of analogue and digital
+signals, Logic gates (OR, AND, NOT,
+NAND and NOR). Combination of gates.
+(a) Energy bands in solids; energy band
+diagrams for distinction between
+conductors, insulators and semi- conductors - intrinsic and extrinsic;
+electrons and holes in semiconductors.
+Elementary ideas about electrical
+conduction in metals [crystal structure
+not included]. Energy levels (as for
+hydrogen atom), 1s, 2s, 2p, 3s, etc. of
+an isolated atom such as that of
+copper; these split, eventually forming
+‘bands’ of energy levels, as we
+consider solid copper made up of a
+large number of isolated atoms,
+brought together to form a lattice;
+definition of energy bands - groups of
+closely spaced energy levels separated
+by band gaps called forbidden bands.
+An idealized representation of the
+energy bands for a conductor,
+insulator and semiconductor;
+characteristics, differences; distinction
+between conductors, insulators and
+semiconductors on the basis of energy
+bands, with examples; qualitative
+discussion only; energy gaps (eV) in
+typical substances (carbon, Ge, Si);
+some electrical properties of
+semiconductors. Majority and minority
+charge carriers - electrons and holes;
+intrinsic and extrinsic, doping, p-type,
+n-type; donor and acceptor impurities.
+(b) Junction diode and its symbol;
+depletion region and potential barrier;
+forward and reverse biasing, V-I
+characteristics and numericals; half
+wave and a full wave rectifier. Simple
+circuit diagrams and graphs, function
+of each component in the electric
+circuits, qualitative only. [Bridge
+rectifier of 4 diodes not included];
+elementary ideas on solar cell,
+photodiode and light emitting diode
+(LED) as semi conducting diodes.
+Importance of LED’s as they save
+energy without causing atmospheric
+pollution and global warming. Zener
+diode, V-I characteristics, circuit
+diagram and working of zener diode as
+a voltage regulator.
+(c) Junction transistor; simple qualitative
+description of construction - emitter,
+base and collector; npn and pnp type;
+symbols showing direction of current in
+emitter-base region (one arrow only)- base is narrow; current gains in a
+transistor, relation between ,  and
+numericals related to current gain,
+voltage gain, power gain and
+transconductance; common emitter
+configuration only, characteristics; IB
+vs VBE and IC vs VCE with circuit
+diagram and numericals; common
+emitter transistor amplifier - circuit
+diagram; qualitative explanation
+including amplification, wave form
+and phase reversal.
+(d) Elementary idea of discreet and
+integrated circuits, analogue and
+digital signals. Logic gates as given;
+symbols, input and output, Boolean
+equations (Y=A+B etc.), truth table,
+qualitative explanation. NOT, OR,
+AND, NOR, NAND. Combination of
+gates [Realization of gates not
+included]. Advantages of Integrated
+Circuits.
+10. Communication Systems
+Elements of a communication system (block
+diagram only); bandwidth of signals (speech,
+TV and digital data); bandwidth of
+transmission medium. Modes of propagation
+of electromagnetic waves in the atmosphere
+through sky and space waves, satellite
+communication. Modulation, types
+(frequency and amplitude), need for
+modulation and demodulation, advantages of
+frequency modulation over amplitude
+modulation. Elementary ideas about internet,
+mobile network and global positioning system
+(GPS).
+Self-explanatory- qualitative only
