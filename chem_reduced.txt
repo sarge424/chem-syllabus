@@ -1,0 +1,734 @@
+Solid State
+Solids: their classification based on different
+binding forces such as: ionic, covalent
+molecular; amorphous and crystalline solids
+(difference), metals. Type of unit cell in two
+dimensional and three dimensional lattices,
+number of atoms per unit cell (all types).
+Calculation of density of unit cell, packing in
+solids, packing efficiency, point defects,
+electrical and magnetic properties.
+Band theory of metals. Conductors,
+semiconductors (n and p type) and insulators.
+(i) Crystalline and amorphous solids.
+(ii) Definition of crystal lattice, unit cell; types of
+unit cell (scc, fcc, bcc); calculation of the
+number of atoms per unit cell; relationship
+between radius, edge length and nearest
+neighbour distance. Calculation of density of
+unit cell, formula of the compound –
+numericals based on it; packing in 3 – D,
+packing fraction in scc, fcc, bcc with
+derivation.
+(iii) Characteristics of crystalline solids; ionic
+(NaCl), metallic (Cu), atomic (diamond and
+graphite).
+(iv) Point defects: Stoichiometric, non-
+stoichiometric and impurity defects
+(F- centres).
+(v) Electrical properties: Conductors,
+semiconductors (n & p types) and insulators.
+(vi) Magnetic properties: diamagnetic,
+paramagnetic.
+2. Solutions
+Study of concentration of solutions of solids in
+liquids, liquid in liquid, solubility of gases in
+liquids, Colligative properties - Raoult's law of
+relative lowering of
+vapour pressure elevation of boiling point,
+depression of freezing
+point, osmotic pressure. Use of colligative
+properties in determining molecular masses of
+solutes.
+Normality, molality, molarity, mole fraction, as
+measures of concentration. Definition of the
+above with examples. Simple problems based on
+the above.
+(i) Solubility of gases in liquids – Henry’s Law,
+simple numericals based on the above.
+(ii) Raoult’s Law for volatile solutes and non-
+volatile solutes, ideal solution, non-ideal
+solution. Azeotropic mixtures – definition,
+types.
+(iii) Colligative properties – definition and
+examples, and its use in determination of
+molecular mass.
+(a) Relative lowering of vapour pressure:
+Definition and mathematical expression
+of Raoult’s Law. Determination of
+relative molecular mass by measurement
+of lowering of vapour pressure.
+(b) Depression in freezing point: molal
+depression constant (cryoscopic
+constant) – definition and mathematical
+expression (derivation included).
+(c) Elevation in boiling point method: molal
+elevation constant (ebullioscopic
+constant) definition and mathematical
+expression (derivation included).
+(d) Osmotic pressure: definition and
+explanation. Natural and chemical
+semipermeable membranes, reverse
+osmosis, isotonic, hypotonic and
+hypertonic solutions. Comparison
+between diffusion and osmosis.
+Application of osmotic pressure in the
+determination of relative molecular
+mass.
+van’t Hoff- Boyle’s Law, van’t Hoff –
+Charles’ Law, van’t Hoff - Avogadro’s
+law.
+Numerical problems based on all the above
+methods. Experimental details not required.
+3. Electrochemistry
+Electrolytic and electrochemical cells. Redox
+reactions in electrochemical cells.
+Electromotive Force (emf) of a cell, standard
+electrode potential, Nernst equation and its
+application to chemical cells. Relation between
+Gibbs energy change and emf of a cell.
+Conductance in electrolytic solutions, specific,
+equivalent and molar conductivity, variations of
+conductivity with concentration. Kohlrausch's
+Law of electrolysis and Faraday’s Laws of
+electrolysis.
+(i) Electrochemical cells: introduction, redox
+reactions (principle of oxidation and
+reduction in a cell).
+(ii) Galvanic cells - introduction;
+representation, principle – oxidation
+reduction. Mechanism of production of
+electric current in a galvanic cell.
+(iii) Measurement of potential. Single electrode
+potentials.
+Standard hydrogen electrode - definition,
+preparation, application and limitations.
+Standard electrode potential (Eo
+) -Measurement of standard electrode potential
+of Zn ++ / Zn, Cu ++ / Cu, half cell (using
+standard hydrogen electrode).
+Cell notation – representation.
+Factors affecting electrode potential with
+explanation - main emphasis on the
+temperature, concentration and nature of the
+electrode.
+(iv) Electrochemical series. Its explanation on
+the basis of standard reduction potential.
+Prediction of the feasibility of a reaction.
+(v) Nernst equation and correlation with the free
+energy of the reaction with suitable
+examples.
+Prediction of spontaneity of a reaction based
+on the cell emf.
+Numericals on standard electrode potential
+of half-cells, cell emf, relationship between
+free energy and equilibrium constant,
+standard electrode potential and free energy.
+(vi) Comparison of metallic conductance and
+electrolytic conductance. Relationship
+between conductance and resistance. Specific
+resistance and specific conductance.
+Cell constant: Calculation of cell constant.
+Meaning of equivalent conductance.
+Meaning of molar conductance. General
+relationship between specific conductance,
+molar conductance and equivalent
+conductance.
+Units, numericals.
+Molar conductance of a weak electrolyte at a
+given concentration and at infinite dilution.
+Kohlrausch’s Law – definition, applications
+and numericals.
+(vii) Faraday’s laws of Electrolysis.
+Faraday’s First Law of electrolysis.
+Statement, mathematical form. Simple
+problems.
+Faraday’s Second Law of electrolysis:
+Statement, mathematical form. Simple
+problems.
+Relation between Faraday, Avogadro’s
+number and charge on an electron. F = NAe
+should be given (no details of Millikan’s
+experiment are required).
+4. Chemical Kinetics
+Meaning of Chemical Kinetics – slow and fast
+reactions. Rate of a reaction - average and
+instantaneous rate (graphical representation).
+Factors affecting rate of reaction: surface area,
+nature of reactants, concentration, temperature,
+catalyst and radiation. Order and molecularity
+of a reaction, rate law and specific rate constant.
+Integrated rate equations and half-life (only for
+first order reactions). Concept of threshold and
+activation energy, Arrhenious equation.
+(i) Meaning of chemical kinetics, Scope and
+importance of Kinetics of the reaction, slow
+and fast reactions – explanation in terms of
+bonds.
+(ii) Rate of Reaction: definition, representation
+of rate of reaction in terms of reactants and
+products, determination of rate of reactions
+graphically, instantaneous and average rate
+of reaction. Factors affecting rate of
+reaction.
+(iii)Law of mass Action: statement and meaning
+of active mass. Explanation with an example
+– general reactions.
+(iv) Effect of concentration of reactants on the
+rate of a reaction: Qualitative treatment,
+based on the law of mass Action, statement of
+rate law, General rate equation –
+Rate = k(concentration of the reactant)n
+,where k is rate constant and n is the order of
+the reaction, relationship between the rate of
+the reaction with rate constant with respect
+to various reactants.
+(v) Order of a reaction: meaning, relation
+between order and stoichiometric coefficients
+in balanced equations, order as an
+experimental quantity, rate equation,
+mathematical derivation of rate equation for
+first order reaction, characteristics of first
+order reaction – rate constant is independent
+of the initial concentration, units to be
+derived, definition of half-life period,
+derivation of expression of half-life period
+from first order rate equation.
+Problems based on first order rate equation
+and half-life period.
+(vi) Molecularity of the reaction: Meaning –
+physical picture, Relation between order,
+molecularity and the rate of a reaction,
+Differences between order and molecularity
+of a reaction.
+(vii) The concept of energy: Exothermic and
+endothermic reactions, concept of energy
+barrier, threshold and activation energy,
+formation of activated complex, effect of
+catalyst on activation energy and reaction
+rate.
+(viii) Effect of temperature on the rate constant
+of a reaction: Arrhenius equation – K=Ae-
+Ea/RT, Meaning of the symbols of Arrhenius
+equation, related graph, evaluation of Ea and
+A from the graph, meaning of slope of the
+graph, conversion from exponential to log
+form of the equation, relationship between
+the increase in temperature and the number
+of collisions. Numerical based on Arrhenius
+equation.
+5. Surface Chemistry
+Absorption and Adsorption - physisorption and
+chemisorption, factors affecting adsorption of
+gases on solids and liquids. Catalysis;
+homogenous and heterogenous, activity and
+selectivity.
+Colloidal state distinction between true solutions,
+colloids and suspension; lyophilic, lyophobic
+multi-molecular, macromolecular and associated
+colloids; properties of colloids; Brownian
+movement, Tyndall effect, coagulation and
+electrophoresis. Emulsion - types ofemulsions.
+(i) Difference between absorption and
+adsorption: definition of physisorption and
+chemisorption and their differences.
+Factors affecting adsorption of gases on
+solids.
+(ii)Catalysis: definition, types of catalysts –
+positive and negative, homogeneous and
+heterogeneous catalyst based on the state of
+the reactant and the catalyst, Elementary
+treatment of intermediate compound
+formation theory with examples; adsorption
+Theory, effect of catalyst on the rate of
+reaction – the change in the energy of
+activation in the activation energy curve.
+Characteristics of a catalyst; specificity,
+activity, surface area of a catalyst. Promoter
+and poison.
+(iii)Colloidal State: Thomas Graham classified
+the substances as crystalloid and colloid,
+classification of substances on the basis of
+the particle size i.e. true solution, sol and
+suspension, colloidal system is
+heterogeneous. lyophilic and lyophobic
+colloid; classification of colloidal solutions
+as micro, macro and associated colloids.
+Properties of colloidal solutions: Brownian
+movement, Tyndall effect, coagulation,
+electrophoresis (movement of dispersed
+phase), Protection of colloids, Hardy-
+Schulze rule. Emulsions, surfactants, micelles
+(only definition and examples).
+Application of colloids and emulsions in
+daily life.
+6. General Principles and Processes of Isolation
+ofElements
+Metals: metallurgy, ores, principles and
+methods of extraction - concentration,
+oxidation, reduction, electrolytic refining.
+Occurrence and principles of extraction of
+copper, zinc, iron and silver.
+Definition of minerals, ores and metallurgy;
+principle ores of iron, copper, zinc and silver.
+Methods of concentration of ores: hydraulic
+washing, magnetic separation, froth floatation
+method, leaching.
+Extraction of metal from concentrated ore –
+calcination, roasting and thermal reduction.
+Metallurgy of iron, copper, zinc and silver.
+Refining of metals - distillation, liquation,
+electrolysis.
+7. p-Block Elements
+Group-15 Elements
+Position in the periodic table, occurrence,
+electronic configuration, oxidation states, trends
+in physical and chemical properties. Nitrogen:
+preparation properties and its uses; compounds
+of nitrogen: nitric acid – preparation and
+properties. Phosphorus - compounds of
+phosphorus: preparation and properties of
+phosphine.
+(i) General introduction, electronic
+configuration, occurrence, oxidation states.
+Trends in physical properties; chemical
+properties with hydrogen, oxygen and
+halogens.
+(ii) Nitrogen - Laboratory preparation,
+decomposition (ammonium dichromate).
+Properties and uses.
+(iii) Nitric Acid - Preparation and manufacture.
+Properties: reaction with copper (dilute and
+concentrated HNO3), carbon and sulphur.
+Uses.
+(iv) Phosphine – preparation from phosphorus
+and properties: reaction with halo acids.
+Group-16 Elements
+Position in the periodic table, occurrence,
+electronic configuration, oxidation states, trends
+in physical and chemical properties. Ozone –
+methods of preparation. Compounds of
+sulphur: preparation, properties and uses of
+sulphur-dioxide (industrial process of
+manufacture).
+(i) Electronic configuration, oxidation
+states, occurrence. Trends in physical
+properties; chemical properties with
+hydrogen, oxygen and halogens.
+(ii) Ozone: manufacture by Siemen’s
+ozoniser, thermal decomposition of
+ozone, its oxidising nature – reaction
+with lead sulphide, potassium iodide and
+mercury, its uses.
+(iii) Sulphur dioxide: laboratory and
+industrial preparation from sulphites and
+sulphide ores, reaction of sulphur
+dioxide with NaOH, Cl2, KMnO4.
+Group-17 Elements
+Position in the periodic table, occurrence,
+electronic configuration, oxidation states,
+trends in physical and chemical properties;
+Preparation, properties and uses of chlorine.
+Interhalogen compounds.
+(i) General introduction, electronic
+configuration, oxidation states. Trends in
+physical properties and chemical
+properties (hydrogen, oxygen, halogens
+and metals).
+(ii) Chlorine – preparation from MnO2 and
+HCl, from NaCl, MnO2 and conc. H2SO4
+(only equations), reactions of chlorine
+with H2S, NH3, cold, dilute NaOH and
+hot, concentrated NaOH.
+(iii)Interhalogen compounds – structure,
+hybridisation and shapes: XX', XX'3,
+XX'5, XX'7.
+Group-18 Elements
+Position in the periodic table, occurrence,
+electronic configuration, trends in physical and
+chemical properties, inert nature, uses.
+(i) General introduction, electronic
+configuration, occurrence, trends in
+physical; chemical properties, state and low
+reactivity.
+(ii) Formation of xenon compounds with fluorine
+and oxygen (equations only), hybridisation,
+shape and structure of compounds.
+(iii) Uses of noble gases.
+8. d and f Block Elements
+Position in the periodic table, occurrence,
+electronic configuration and characteristics of
+transition metals, general trends in properties of
+the 3d-series of transition metals - metallic
+character, ionisation enthalpy, oxidation states,
+ionic radii, colour of ions, catalytic property,
+magnetic properties, properties of K2Cr2O7 and
+KMnO4.
+Lanthanoids and actinoids.
+(i) d-Block: 3d, 4d and 5d series
+Study in terms of metallic character, atomic
+and ionic radii, ionisation enthalpy,
+oxidisation states, variable valency,
+formation of coloured compounds, formation
+of complexes, alloy formation.
+(ii) f-Block: 4f and 5f series
+Electronic configuration, atomic and ionic
+radii, oxidisation states, formation of
+coloured compounds, formation of
+complexes. Lanthanoid contraction and its
+consequences. Chemical reactivity – with
+oxygen, hydrogen, halogen, sulphur,
+nitrogen, carbon and water.
+Actinoids - oxidation states and comparison
+with lanthanoids.
+(iii)Potassium permanganate: structure, shape;
+its oxidising nature in acidic, basic and
+neutral medium, use in redox titration.
+Oxidising nature in acidic [FeSO4,
+(COOH)2.2H2O, KI], basic (KI) and neutral
+(H2S) mediums to be done.
+(iv) Potassium dichromate: structure, shape; its
+use in titration. Oxidising nature in acidic,
+basic and neutral medium, use in redox
+titration.
+9. Coordination Compounds
+Concept of complexes, definition of ligands,
+coordination number, oxidation number. IUPAC
+nomenclature of mononuclear coordination
+compounds. Isomerism (structural and stereo).
+Bonding, Werner's theory, VBT. Colour,
+magnetic properties and shapes. Importance of
+coordination compounds (in qualitative analysis,
+extraction of metals and biologicalsystem).
+(i) Definition of coordination compounds /
+complex compounds, differences with a
+double salt, study of ligands – mono-, bi-, tri-
+, tetra-, penta-, hexa- and polydentate,
+chelating ligands, definition of coordination
+number, its calculation for a complex
+coordination sphere, study of oxidation state
+of an element in a complex, its calculation,
+IUPAC rules of nomenclature of
+coordination compounds.
+(ii) Isomerism – structural, stereo types and
+examples.
+(iii)Valence bond theory of coordination
+compounds – examples of formation of inner
+orbital and outer orbital complexes (high
+and low spin, octahedral, tetrahedral and
+square planar), prediction of magnetic
+character.
+(iv) Importance and uses.
+10. Haloalkanes and Haloarenes.
+Haloalkanes: General formula, nomenclature
+and classification. Nature of C–X bond,
+physical and chemical properties, mechanism
+of substitution reactions, opticalrotation.
+Haloarenes: Basic idea, nature of C–X bond,
+substitution reactions (directive influence of
+halogen in monosubstituted compounds only).
+Nature of C-X bond
+Naming the halogen derivatives of alkanes by
+using common system and IUPAC system for
+mono, di and tri-halo derivatives.
+Preparation of haloalkanes from:
+- Alkane and halogen.
+- Alkene and hydrogen halide.
+- Alcohols with PX3, PCl5 and SOCl2.
+- Halide exchange method (Finkelstein and
+Swarts)
+- Silver salt of fatty acids (Hunsdiecker).
+Physical properties: State, melting point, boiling
+point and solubility.
+Chemical properties: nucleophilic substitution
+reactions (SN1, SN2 mechanism in terms of
+primary, secondary and tertiary halides)
+Reaction with: sodium hydroxide, water, sodium
+iodide, ammonia, primary amine, secondary
+amine, potassium cyanide, silver cyanide,
+potassium nitrite, silver nitrite, silver salt of fatty
+acid and lithium-aluminium hydride.
+Elimination reaction (Saytzeff’s rule) / ß
+elimination.
+Reaction with metals: sodium and magnesium
+(Wurtz’s reaction, Grignard’s reagent
+preparation).
+Chloroform and iodoform: preparation and
+properties.
+Preparation of haloarenes by Sandmeyer’s and
+Gattermann’s reaction, by electrophilic
+substitution.
+Physical properties: State, melting point, boiling
+point and solubility.
+Chemical properties:
+- Electrophilic substitution (chlorination
+nitration and sulphonation).
+- Nucleophilic substitution (replacement of
+chlorine with -OH, -NH2).
+- Reduction to benzene.
+- Wurtz-Fittig reaction.
+- Fittig reaction.
+- Addition reaction with magnesium
+(formation of Grignard reagent).
+11. Alcohols, Phenols and Ethers
+Alcohols: Classification, general formula,
+structure and nomenclature. Methods of
+preparation, physical and chemical properties
+(of primary alcohols only), identification of
+primary, secondary and tertiary alcohols, uses
+with special reference to methanol andethanol.
+(i) Classification into monohydric, dihydric and
+polyhydric alcohols, general formulae,
+structure and nomenclature of alcohols.
+Difference between primary, secondary and
+tertiary alcohols in terms of structure,
+physical properties and chemical properties.
+(ii) Methods of preparation:
+- Hydration of Alkenes – direct hydration,
+indirect hydration, hydroboration
+oxidation.
+- From Grignard’s reagent.
+- Hydrolysis of alkyl halides.
+- Reduction of carbonyl compounds.
+- From primary amines.
+Properties:
+- Acidic nature of alcohols:
+- Reaction with sodium.
+- Esterification.
+- Reaction with hydrogen halides.
+- Reaction with PCl3, PCl5, and SOCl2.
+- Reaction with acid chlorides and acid
+anhydrides
+- Oxidation.
+- Dehydration.
+Uses of alcohols.
+(iii) Conversion of one alcohol into another.
+(iv) Distinction between primary, secondary and
+tertiary alcohols by Lucas’ Test.
+Phenols: Classification and nomenclature.
+Methods of preparation, physical and chemical
+properties, acidic nature of phenol, electrophilic
+substitution reactions, uses ofphenols.
+Preparation of phenol from diazonium salt,
+chlorobenzene (Dow’s process) and from
+benzene sulphonic acid.
+Manufacture from Cumene.
+Physical properties: state and solubility.
+Chemical properties:
+- Acidic character of phenol.
+- Reaction with sodium hydroxide.
+- Reaction with sodium.
+- Reaction with zinc.
+- Reaction with acetyl chloride and acetic
+anhydride.
+- Reaction with phosphorus penta chloride.
+- Bromination, nitration and sulphonation
+(Electrophilic substitution reactions).
+- Kolbe’s reaction (formation of salicylic
+acid).
+- Reimer – Tiemann reaction
+- Test for phenol – FeCl3 test, azo dye test.
+Aliphatic Ethers: General formula, structure and
+nomenclature. Methods of preparation, physical
+and chemical properties, uses.
+Ethers: structure of ethereal group.
+Preparation from alcohol (Williamson’s
+synthesis).
+Physical properties: state, miscibility.
+Chemical properties:
+- Reaction with chlorine.
+- Oxidation (peroxide formation).
+- Reaction with HI.
+- Reaction with PCl5.
+12. Aldehydes, Ketones and Carboxylic Acids
+Aldehydes and Ketones: Nomenclature,
+structure of methods of preparation of
+aldehydes and ketones, physical and chemical
+properties, mechanism of nucleophilic addition,
+reactivity of alpha hydrogen in aldehydes and
+uses.
+Preparation:
+• From alcohol.
+• From alkenes (ozonolysis).
+• From alkynes (hydration).
+• From acid chlorides (Rosenmund’s
+reduction, reaction with dialkyl cadmium).
+• From calcium salt of carboxylic acids.
+• From nitriles (Stephen reaction, Grignard’s
+reagent).
+• From esters.
+Physical properties – state and boiling point.
+Chemical properties:
+• Nucleophilic addition reactions with
+mechanism (ammonia and its derivatives,
+HCN, NaHSO3 and Grignard’s reagent).
+• Oxidation reactions, iodoform reaction.
+• Reduction: reduction to alcohol and alkanes
+(Clemmensen’s reduction, Wolff-Kishner
+reduction, Red phosphorus and HI).
+• Base catalysed reactions: Aldol
+condensation, cross Aldol condensation,
+Cannizzaro’s reaction.
+Tests: difference between formaldehyde and
+acetaldehyde; aldehydes and ketones.
+Uses of aldehydes and ketones.
+Aromatic aldehyde (Benzaldehyde)
+Lab preparation from toluene by oxidation with
+chromyl chloride.
+Physical properties: state and stability.
+Chemical properties:
+• Oxidation and reduction.
+• Nucleophilic addition reaction (hydrogen
+cyanide and sodium bisulphite).
+• Reactions with ammonia and its derivatives
+(hydroxyl amine, hydrazine and phenyl
+hydrazine).
+• Reaction with phosphorus pentachloride.
+• Cannizzaro reaction.
+• Benzoin condensation.
+• Perkin’s reaction.
+• Electrophilic substitution - halogenation,
+nitration and sulphonation.
+Test: distinction between aromatic and aliphatic
+aldehydes.
+Uses of benzaldehyde.
+Carboxylic Acids: Classification, general
+formula and structure of carboxylic group.
+Nomenclature, acidic nature, methods of
+preparation, physical and chemical properties
+and uses.
+Classification of mono and di carboxylic acids
+with examples.
+Preparation of aliphatic and aromatic carboxylic
+acid:
+- From alcohols, aldehydes.
+- From nitriles.
+- From Grignard’s reagent.
+Physical properties: state, boiling point and
+solubility.
+Chemical properties:
+- Acidic character: (aliphatic, aromatic
+carboxylic acids with the effect of
+substituents on the acidic character – to be
+dealt with in detail)
+- Reaction with active metals, alkalies,
+carbonates and bicarbonates,
+- Formation of acid derivatives.
+- Decarboxylation (chemical and Kolbe’s
+electrolytic reaction).
+- HVZ reactions.
+- Substitution of benzene ring (meta directive
+effect of carboxylic acid group) nitration and
+sulphonation.
+Tests for acids: formic acid, acetic acid and
+benzoic acid.
+Uses of formic acid, acetic acid and benzoic acid.
+13. Organic compounds containing Nitrogen
+Aliphatic Amines: General formula and,
+classification of amines. Structure of the amino
+group, nomenclature. Methods of preparation,
+physical and chemical properties, uses,
+identification of primary, secondary and tertiary
+amines.
+• Amines
+Nomenclature, classification with examples,
+structure, general formula.
+Methods of preparation:
+- From alcohol.
+- From alkyl halide.
+- From cyanide.
+- From amide (Hofmann’s degradation).
+- From nitro compounds.
+- Gabriel phthalimide Synthesis.
+Physical properties: comparison between
+primary, secondary and tertiary amines in
+terms of – state, solubility, boiling point
+(hydrogen bonding), comparison with
+alcohols.
+Chemical properties:
+- Basic character of amines – comparison
+between primary, secondary and tertiary
+alkyl amines/ ammonia/ aniline. Effect of
+substituents on the basic strength of
+aniline
+- Alkylation and acylation with
+mechanism.
+- Reaction with nitrous acid.
+- Carbylamine reaction.
+Distinction between primary, secondary
+and tertiary amines (Hinsberg’s Test).
+Aniline
+Preparation reduction of nitrobenzene.
+Physical properties – state, solubility and boiling
+point.
+Chemical properties:
+- Reaction with HCl and H2 SO4 .
+- Acetylation, alkylation.
+- Benzoylation.
+- Carbylamine reaction.
+- Diazotisation.
+- Electrophilic substitution (bromination,
+nitration and sulphonation).
+Tests for aniline.
+Uses of aniline.
+Diazonium salts: Preparation, chemical
+reactions and importance in synthetic organic
+chemistry.
+Preparation from aniline;
+Properties: Sandmeyer’s reaction, Gattermann
+reaction, replacement of diazo group by – H, -
+OH, -NO2, coupling reaction with phenol and
+aniline.
+14. Biomolecules
+Carbohydrates – Definition, Classification
+(aldoses and ketoses), monosaccahrides (glucose
+and fructose), D-L configuration
+oligosaccharides (sucrose), polysaccharides
+(starch, cellulose); Importance of carbohydrates.
+Carbohydrates: definition, classification - mono
+(aldose, ketose), oligo (di, tri, tetra saccharides)
+and polysaccharides with examples: reducing
+sugars and non-reducing sugars – examples and
+uses.
+Heating with HI, reaction with hydroxylamine,
+bromine water and nitric acid.
+Test for glucose and fructose (bromine water test
+with equation).
+Disaccharides – structure of sucrose (glycosidic
+linkage).
+Polysaccharides – starch, cellulose, glycogen.
+Proteins – structural units of proteins. Basic
+idea of - amino acids, peptide bond,
+polypeptides, proteins, denaturation of proteins.
+Enzymes, hormones - elementary idea only.
+Proteins: Amino acids – general structure,
+classification and zwitter ion formation.
+Isoelectric point.
+Classification of proteins on the basis of
+molecular shape; denaturation of proteins.
+(Definitions only. Details and diagrams are not
+required).
+Nucleic Acids - DNA and RNA.
+Nucleic acids: basic unit – purine and
+pyrimidine, DNA – structure (double helical),
+RNA (No chemical structure required).
+Differences between DNA and RNA.
+15. Chemistry in Everyday life
+Chemicals in medicines - analgesics,
+tranquilizers antiseptics, disinfectants,
+antimicrobials, antifertility drugs, antibiotics,
+antacids,antihistamines.
+In medicine: antipyretics, analgesics,
+tranquillisers, antiseptics, disinfectants,
+anti-microbials, anti-fertility drugs,
+antihistamines, antibiotics, antacids.
+Definition, common examples, uses.
+Differences between antiseptics and
+disinfectants.
+Structure not required.
+Chemicals in food - preservatives, artificial
+sweetening agents, elementary idea of
+antioxidants.
+Preservatives: role, example (Sodium benzoate).
+Artificial sweetening agents: role, examples
+(aspartame, saccharine, sucralose and alitame).
